@@ -58,9 +58,7 @@ SAR 水体变化检测面临着斑点噪声干扰、语义交互不足以及弱�
 - **规模**: 3,203 对样本 (覆盖西安、咸阳、铜川等流域)
 - **挑战**: 包含枯水/丰水期变化，以及具有迷惑性的“难负样本”（如稻田、灌溉区）。
 
-下载链接：[百度网盘](通过网盘分享的文件：XDU-SWCD.zip
-链接: https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e 提取码: vf6e) (提取码: vf6e) | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
-
+下载链接：[百度网盘](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
 ## 🛠️ 安装与环境 (Installation)
 
 本项目基于 PyTorch 开发。
