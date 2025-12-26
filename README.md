@@ -129,11 +129,11 @@ python test.py --checkpoint checkpoints/best_model.pth --output_dir results/
 
 ### 1. 在西安数据集上的测试结果
 
-![xian](D:\Master\Research\工作代码开源\WaveDSNet\assert\xian.png)
+![xian](assert\xian.png)
 
 
 
-![Xian_result](D:\Master\Research\工作代码开源\WaveDSNet\assert\Xian_result.png)
+![Xian_result](assert\Xian_result.png)
 
 | **Method**           | **IoU**   | **F1-score** | **Precision (PA1)** | **Recall** |
 | -------------------- | --------- | ------------ | ------------------- | ---------- |
@@ -144,11 +144,11 @@ python test.py --checkpoint checkpoints/best_model.pth --output_dir results/
 
 ### 2. 在公开数据集上的零样本泛化性测试结果
 
-![public](D:\Master\Research\工作代码开源\WaveDSNet\assert\public.png)
+![public](assert\public.png)
 
 
 
-![public_result](D:\Master\Research\工作代码开源\WaveDSNet\assert\public_result.png)
+![public_result](assert\public_result.png)
 
 ## 🔗 引用 (Citation)
 
