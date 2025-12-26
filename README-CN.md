@@ -1,8 +1,13 @@
+
+
+<script src="https://your-repo/language_selector.html"></script>
 <div align="center">
-
-[English](README.md) | [中文](README-CN.md)
-
+  <select onchange="location = this.value;">
+    <option value="README.md">🌍 English</option>
+    <option value="README-CN.md" selected>🇨🇳 中文</option>
+  </select>
 </div>
+
 
 # WaveDSNet: Wavelet Dynamic Convolution with Dual-Stream Synergistic Fusion Network
 
