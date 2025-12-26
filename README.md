@@ -129,26 +129,19 @@ python test.py --checkpoint checkpoints/best_model.pth --output_dir results/
 
 ### 1. 在西安数据集上的测试结果
 
-![xian](assert\xian.png)
+<img src="assert\xian.png" alt="xian_result" style="zoom: 25%;" />
+
+<img src="assert\Xian_result.png" alt="Xian_result" style="zoom: 100%;" />
 
 
-
-![Xian_result](assert\Xian_result.png)
-
-| **Method**           | **IoU**   | **F1-score** | **Precision (PA1)** | **Recall** |
-| -------------------- | --------- | ------------ | ------------------- | ---------- |
-| FC-EF                | 39.26     | 56.38        | 50.08               | 64.51      |
-| SFEARNet (SOTA)      | 41.20     | 25.94*       | 93.50               | 26.42      |
-| DDRL (SOTA)          | 47.95     | 31.54        | 71.07               | 36.18      |
-| **WaveDSNet (Ours)** | **56.16** | **71.92**    | **77.75**           | **66.91**  |
 
 ### 2. 在公开数据集上的零样本泛化性测试结果
 
-![public](assert\public.png)
+<img src="assert\public.png" alt="public" style="zoom: 25%;" />
 
 
 
-![public_result](assert\public_result.png)
+<img src="assert\public_result.png" alt="public_result" style="zoom: 100%;" />
 
 ## 🔗 引用 (Citation)
 
