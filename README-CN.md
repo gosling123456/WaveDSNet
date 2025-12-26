@@ -1,14 +1,3 @@
-
-
-<script src="https://your-repo/language_selector.html"></script>
-<div align="center">
-  <select onchange="location = this.value;">
-    <option value="README.md">🌍 English</option>
-    <option value="README-CN.md" selected>🇨🇳 中文</option>
-  </select>
-</div>
-
-
 # WaveDSNet: Wavelet Dynamic Convolution with Dual-Stream Synergistic Fusion Network
 
 这是论文 **"WaveDSNet: Wavelet Dynamic Convolution with Dual-Stream Synergistic Fusion Network for SAR Water Change Detection"** 的官方 PyTorch 实现代码。

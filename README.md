@@ -1,12 +1,3 @@
-
-
-<div align="center">
-  <select onchange="location = this.value;">
-    <option value="README.md">🌍 English</option>
-    <option value="README-CN.md" selected>🇨🇳 中文</option>
-  </select>
-</div>
-
 # WaveDSNet: Wavelet Dynamic Convolution with Dual-Stream Synergistic Fusion Network
 
 This is the official PyTorch implementation of the paper **"WaveDSNet: Wavelet Dynamic Convolution with Dual-Stream Synergistic Fusion Network for SAR Water Change Detection"**.
