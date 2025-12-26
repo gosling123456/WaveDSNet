@@ -6,8 +6,8 @@
 
 ## 🏗️ 网络架构 (Architecture)
 
-![architecture](assert\architecture.png)
 
+<img src="assert\architecture.png" alt="image-20251226142349516" style="zoom: 25%;" />
 WaveDSNet 采用孪生编码器结构，在每个 Stage 嵌入 WNS 模块，随后通过 CSDI 进行多尺度特征融合，最后由 BASE 模块输出变化图和边缘图。
 
 ## 🚀 简介 (Introduction)
@@ -24,7 +24,7 @@ SAR 水体变化检测面临着斑点噪声干扰、语义交互不足以及弱�
 
 - **BASE (Boundary-Aware Supervised Extraction)**: 施加显式的几何约束，优化边界定位精度 。
 
-  <img src="D:\Master\Research\工作代码开源\WaveDSNet\assert\BASE.png" alt="BASE" style="zoom: 25%;" />
+  <img src="assert\BASE.png" alt="BASE" style="zoom: 25%;" />
 
 此外，我们构建了 **XDU-SWCD** 数据集，这是目前用于 SAR 水体变化检测的大规模高分辨率基准 。
 
