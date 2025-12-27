@@ -263,20 +263,10 @@ data/
 Bash
 
 ```
-python train.py --dataset XDU-SWCD --batch_size 16 --lr 1e-3 --epochs 100
+python train.py
 ```
 
-*(注：超参数参考论文 Exper A 部分：LR=1e-3, Batch=16, GPUs=2x RTX 5090, Optimizer=AdamW)* 
 
-
-
-### 3. 测试 (Testing)
-
-Bash
-
-```
-python test.py --checkpoint checkpoints/best_model.pth --output_dir results/
-```
 
 ## 📈 实验结果 (Results)
 
