@@ -62,7 +62,7 @@ data/
 
 ```bash
 python main.py
-
+```
 
 
 ## 🔗 Citation
