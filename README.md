@@ -1,6 +1,7 @@
 # WaveDSNet: A Wavelet-Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery
 
-This is the official PyTorch implementation of the paper **"WaveDSNet: A Wavelet-Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery"**.
+This is the official PyTorch implementation of the paper **[WaveDSNet: A Wavelet‑Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery](https://ieeexplore.ieee.org/document/11703712)**.
+
 
 This project proposes an end-to-end SAR water change detection network and achieves state-of-the-art performance on the newly constructed large-scale benchmark dataset, and it will be pbulished when the paper is accepted!
 
@@ -70,5 +71,15 @@ python main.py
 If you find this project helpful for your research, please consider citing our paper:
 
 ```
-###
+@article{GaoWaveDSNet2026,
+  author={Gao, Shulin and Ren, Zhongle and Wang, Kai and Feng, Guangyao and Li, Xi and Zang, Weicheng and Hou, Biao and Li, Weibin and Jiao, Licheng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={WaveDSNet: A Wavelet-Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Water Change Detection;Wavelet Dynamic Convolution;Discrepancy Semantic Network;High-resolution dataset;Hard-negative scenarios},
+  doi={10.1109/TGRS.2026.3736079}
+}
 ```
