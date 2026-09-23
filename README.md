@@ -71,7 +71,7 @@ python main.py
 If you find this project helpful for your research, please consider citing our paper:
 
 ```
-@article{GaoWaveDSNet2026,
+@article{Gao2026WaveDSNet,
   author={Gao, Shulin and Ren, Zhongle and Wang, Kai and Feng, Guangyao and Li, Xi and Zang, Weicheng and Hou, Biao and Li, Weibin and Jiao, Licheng},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={WaveDSNet: A Wavelet-Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery}, 
