@@ -10,6 +10,8 @@ This project proposes an end-to-end SAR water change detection network and achie
 
 To address data scarcity, we constructed the **XDU-SWCD** dataset containing diverse hydrological scenarios.
 
+Download:：[Baidu Netdisk](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
+
 <img src="assert\dataset.png" alt="dataset" style="zoom: 25%;" />
 
 |        **Region**        |    **Time Period**     |  Sensor  |   Size    | Resolution | Band | Polarization | Classes | Samples |
@@ -71,15 +73,13 @@ python main.py
 If you find this project helpful for your research, please consider citing our paper:
 
 ```
-@article{Gao2026WaveDSNet,
-  author={Gao, Shulin and Ren, Zhongle and Wang, Kai and Feng, Guangyao and Li, Xi and Zang, Weicheng and Hou, Biao and Li, Weibin and Jiao, Licheng},
+@article{gao2026wavedsnet,
+ author={Gao, Shulin and Ren, Zhongle and Wang, Kai and Feng, Guangyao and Li, Xi and Zang, Weicheng and Hou, Biao and Li, Weibin and Jiao, Licheng},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={WaveDSNet: A Wavelet-Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery}, 
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
-  keywords={Water Change Detection;Wavelet Dynamic Convolution;Discrepancy Semantic Network;High-resolution dataset;Hard-negative scenarios},
-  doi={10.1109/TGRS.2026.3736079}
-}
+  pages={5216517-5216517},
+  doi={10.1109/TGRS.2026.3736079}}
 ```
