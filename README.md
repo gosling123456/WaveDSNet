@@ -12,10 +12,6 @@ This is the official PyTorch implementation of the paper **[WaveDSNet: A Wavelet
 - **27 Apr 2026**: Initial manuscript submitted.
 
 
-This project proposes an end-to-end SAR water change detection network and achieves state-of-the-art performance on the newly constructed large-scale benchmark dataset!
-Download:：[Baidu Netdisk](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
-
-
 ## 📊 XDU-SWCD Dataset
 
 To address data scarcity, we constructed the **XDU-SWCD** dataset containing diverse hydrological scenarios.
@@ -34,6 +30,9 @@ To address data scarcity, we constructed the **XDU-SWCD** dataset containing div
 - **Sensor**: GF-3 (C-band SAR)
 - **Resolution**: 3 meters (HH polarization)
 - **Scale**: 3,203 sample pairs (covering river basins in Xi'an, Xianyang, Tongchuan)**Challenges**: Includes dry/wet season changes and challenging negative samples (like paddy fields)
+
+This project proposes an end-to-end SAR water change detection network and achieves state-of-the-art performance on the newly constructed large-scale benchmark dataset!
+Download:：[Baidu Netdisk](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
 
 
 ## 🛠️ Installation
