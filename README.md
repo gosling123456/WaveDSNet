@@ -2,8 +2,18 @@
 
 This is the official PyTorch implementation of the paper **[WaveDSNet: A Wavelet‑Enhanced Discrepancy Semantic Network for Water Change Detection in SAR Imagery](https://ieeexplore.ieee.org/document/11703712)**.
 
+## News
+- **29 Nov 2026**: The dataset of this study is publicly released.
+- **30 Sep 2026**: Current manuscript version updated.
+- **22 Sep 2026**: Paper published online.
+- **17 Sep 2026**: Manuscript accepted.
+- **08 Sep 2026**: Submission of the second revised manuscript.
+- **16 Aug 2026**: Submission of the first revised manuscript.
+- **27 Apr 2026**: Initial manuscript submitted.
 
-This project proposes an end-to-end SAR water change detection network and achieves state-of-the-art performance on the newly constructed large-scale benchmark dataset, and it will be pbulished when the paper is accepted!
+
+This project proposes an end-to-end SAR water change detection network and achieves state-of-the-art performance on the newly constructed large-scale benchmark dataset!
+Download:：[Baidu Netdisk](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
 
 
 ## 📊 XDU-SWCD Dataset
