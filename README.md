@@ -10,7 +10,7 @@ This project proposes an end-to-end SAR water change detection network and achie
 
 To address data scarcity, we constructed the **XDU-SWCD** dataset containing diverse hydrological scenarios.
 
-Download:：[Baidu Netdisk](https://pan.baidu.com/s/1lzr1wbQqFq-dxxWaW1NHhg?pwd=vf6e)  | [Google Drive](https://drive.google.com/file/d/1YcoNoKniScIT8QeggGRZXJCP6zRP-fp_/view?usp=drive_link)
+
 
 <img src="assert\dataset.png" alt="dataset" style="zoom: 25%;" />
 
